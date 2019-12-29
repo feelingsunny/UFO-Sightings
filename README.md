@@ -1,4 +1,4 @@
-# javascript-challenge
+# Javascript-challenge
 JavaScript and DOM Manipulation
 
 Website that creates a table dynamically based on an array of JavaScript objects, and searches data to find rows that match user input.
@@ -17,5 +17,5 @@ Use a date form in your HTML document and write JavaScript code that will listen
 
 https://feelingsunny.github.io/UFO-Sightings/
 
-
+![04-thumbnail](https://user-images.githubusercontent.com/49255104/71564283-ec21fa00-2a63-11ea-91dd-424bd91cbc82.png)
 
